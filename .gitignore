@@ -1,1 +1,7 @@
 env
+.env
+.vscode
+job_scanner.egg-info
+logs
+__pycachhe__
+
